@@ -1,0 +1,4 @@
+We have a complete Insta Bot but lack similar in case of Whatsapp. So let's make something
+that groups etc can use or to automate the sending timings etc.
+
+-- idea by kushchoudhary8@gmail.com
